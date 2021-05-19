@@ -17,6 +17,7 @@ Hi, I'm Rudra Pratap, a Competitive Programmer, developer 🚀 from India, who i
 
 <br />
 A firm believer of the saying "Jack of all master of SOME", and trying to follow it to expand my knowledge, as well as deepen it on some of them.
+<br />
 
   
 **Talking about Personal Stuffs:**
