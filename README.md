@@ -11,6 +11,9 @@
 </a>
 
 <br />
+
+### Glad to see you here! &nbsp; <img src="https://komarev.com/ghpvc/?username=rudra4365&label=Profile%20views&color=0e75b6&style=flat" alt="rudra4365" /> ![GitHub followers](https://img.shields.io/github/followers/rudra4365) ![GitHub User's stars](https://img.shields.io/github/stars/rudra4365)
+
 <br />
 
 Hi, I'm Rudra Pratap, a Competitive Programmer, developer 🚀 from India, who is passionate about learning new tech stacks. In love with the fact that we together can develop our thoughts into reality just with a few (Okay... sometime's it's not few 😉) lines of code.
